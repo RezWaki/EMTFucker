@@ -5,6 +5,12 @@ EMTFucker
 IMPORTANT: The input file (in case you're converting to EMT) HAS TO BE an OGG audio file, otherwise it will not work. It's the EMT<->OGG converter, remember?
 
 
+**** There are two versions here: UI & CMD.
+- UI version weighs more and requires VLC Media Player be installed on your system, but you can play-back the audio files.
+- CMD version weighs much less and doesn't require anything but it can't play-back the audio-files, only convert.
+See details below.
+
+
 Required prerequisites for CMD version (emtfucker-cmd.exe):
     Windows 7 & above
 
