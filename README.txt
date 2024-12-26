@@ -1,6 +1,6 @@
 EMTFucker
 
-25 to Life EMT<->OGG converter
+25 to Life's EMT<->OGG converter
 
 IMPORTANT: The input file (in case you're converting to EMT) HAS TO BE an OGG audio file, otherwise it will not work. It's the EMT<->OGG converter, remember?
 
